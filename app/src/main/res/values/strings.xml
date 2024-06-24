@@ -7,14 +7,13 @@
     <string name="enter_your_password">Enter your Password</string>
     <string name="gender">Gender:</string>
     <string name="submit">Submit</string>
+    <string name="this_is_home_page">This is Home page</string>
 
     <string-array name="genders">
         <item>Male</item>
         <item>Female</item>
         <item>Other</item>
     </string-array>
-
-
 
 
 </resources>
