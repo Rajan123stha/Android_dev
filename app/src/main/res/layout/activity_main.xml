@@ -94,7 +94,7 @@
             android:layout_alignBaseline="@id/gender_label"
             android:background="@drawable/borders"
             android:layout_alignStart="@id/password_input"
-            android:textColor="@color/black"
+            android:textColor="@color/purple_700"
             />
 
         <Button

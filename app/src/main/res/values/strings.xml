@@ -8,6 +8,7 @@
     <string name="gender">Gender:</string>
     <string name="submit">Submit</string>
     <string name="this_is_home_page">This is Home page</string>
+    <string name="gender_display">Gender:</string>
 
     <string-array name="genders">
         <item>Male</item>
